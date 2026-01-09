@@ -276,9 +276,9 @@ parts:
   - title: "Data Wrangling"
     file: 27/data_wrangling
     sections:
-    - title: ""
+    - title: "How to begin Wrangling"
       files: 27/1/Case_Study_Data_Wrangling
-    - title: ""
+    - title: "Conclusions"
       files: 27/2/Conclusions
 
   - title: "Relational Databases and SQL"
