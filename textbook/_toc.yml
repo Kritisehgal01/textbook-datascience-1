@@ -274,7 +274,12 @@ parts:
       file: 25/4/hierarchical_example
 
   - title: "Data Wrangling"
-    file: 26/placeholder27
+    file: 27/data_wrangling
+    sections:
+    - title: ""
+      files: 27/1/Case_Study_Data_Wrangling
+    - title: ""
+      files: 27/2/Conclusions
 
   - title: "Relational Databases and SQL"
     file: 27/placeholder28
